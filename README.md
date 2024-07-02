@@ -1,2 +1,2 @@
 # my-tech-goals
-HNG Intership stage one
+HNG Intership stage one tasks
